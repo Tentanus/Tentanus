@@ -2,8 +2,8 @@
 I'm Tentanus, a Student at [Codam](https://codam.nl) which is part of the [42](https://42network.org)-Network. Here I'm teaching myself Software development.
 
 ## What I'm up to
-🔭 I’m currently working on a [webserver Project]()
-💻 I am working my way through the core curriculum in Codam, currently focusing on C and C++.
+🔭 I’m currently working on a webserver Project.\
+💻 I am working my way through the core curriculum in Codam, currently focusing on C and C++.\
 🔍 I am looking for part-time work! I'm a fast learner.
 
 
