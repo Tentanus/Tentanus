@@ -17,9 +17,9 @@ I'm Tentanus, a Student at [Codam](https://codam.nl) which is part of the [42](h
   <img alt="PHP" src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img alt="HTML/XML" src="https://img.shields.io/badge/xml%2Fhtml%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <br>
   <img alt="SQL" src="https://img.shields.io/badge/sql%20-%234478C3.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="HTML/XML" src="https://img.shields.io/badge/xml%2Fhtml%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Rust" src="https://img.shields.io/badge/rust%20-%23FFFFFF.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
 </p>
 
